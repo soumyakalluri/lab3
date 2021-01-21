@@ -18,7 +18,8 @@ body {
 
 .jumbotron {
 	position: relative;
-	background: none;
+     background: none;
+     color: #1f6ddd
 }
 
 .jumbotron:after {
